@@ -5,7 +5,7 @@ import Explore from "~/pages/explore";
 import NotFound from "~/pages/not-found";
 import MainLayout from "~/layouts/main";
 
-const e = createBrowserRouter([
+const routes = createBrowserRouter([
   {
     path: "/",
     element: <MainLayout />,
