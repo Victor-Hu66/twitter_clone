@@ -1,7 +1,7 @@
 export const mainMenu = [
   {
     path: "/",
-    title: "Anasayfa",
+    title: "Home",
     icon: {
       active: (
         <svg viewBox="0 0 24 24" width={26.25} height={26.25} className="block">
@@ -23,7 +23,7 @@ export const mainMenu = [
   },
   {
     path: "/explore",
-    title: "Keşfet",
+    title: "Explore",
     icon: {
       active: (
         <svg viewBox="0 0 24 24" width={26.25} height={26.25} className="block">
@@ -45,7 +45,7 @@ export const mainMenu = [
   },
   {
     path: "/notifications",
-    title: "Bildirimler",
+    title: "Notifications",
     notification: 4,
     icon: {
       active: (
@@ -68,7 +68,7 @@ export const mainMenu = [
   },
   {
     path: "/mesajlar",
-    title: "Mesajlar",
+    title: "Messages",
     icon: {
       active: (
         <svg viewBox="0 0 24 24" width={26.25} height={26.25} className="block">
@@ -90,7 +90,7 @@ export const mainMenu = [
   },
   {
     path: "/listeler",
-    title: "Listeler",
+    title: "Lists",
     icon: {
       active: (
         <svg viewBox="0 0 24 24" width={26.25} height={26.25} className="block">
@@ -112,7 +112,7 @@ export const mainMenu = [
   },
   {
     path: "/yerişaretleri",
-    title: "Yer işaretleri",
+    title: "Bookmarks",
     icon: {
       active: (
         <svg viewBox="0 0 24 24" width={26.25} height={26.25} className="block">
@@ -134,7 +134,7 @@ export const mainMenu = [
   },
   {
     path: "/onaylanmış",
-    title: "Onaylanmış",
+    title: "Premium",
     icon: {
       active: (
         <svg viewBox="0 0 24 24" width={26.25} height={26.25} className="block">
@@ -156,7 +156,7 @@ export const mainMenu = [
   },
   {
     path: "/profil",
-    title: "Profil",
+    title: "Profile",
     icon: {
       active: (
         <svg viewBox="0 0 24 24" width={26.25} height={26.25} className="block">
