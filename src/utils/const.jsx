@@ -1,3 +1,7 @@
+import store from "~/store";
+
+const states = store.getState()
+
 export const mainMenu = [
   {
     path: "/",
@@ -67,7 +71,7 @@ export const mainMenu = [
     },
   },
   {
-    path: "/mesajlar",
+    path: "/messages",
     title: "Messages",
     icon: {
       active: (
@@ -89,7 +93,7 @@ export const mainMenu = [
     },
   },
   {
-    path: "/listeler",
+    path: "/lists",
     title: "Lists",
     icon: {
       active: (
@@ -111,7 +115,7 @@ export const mainMenu = [
     },
   },
   {
-    path: "/yerişaretleri",
+    path: "/bookmarks",
     title: "Bookmarks",
     icon: {
       active: (
@@ -133,7 +137,7 @@ export const mainMenu = [
     },
   },
   {
-    path: "/onaylanmış",
+    path: "/verified",
     title: "Premium",
     icon: {
       active: (
@@ -155,7 +159,7 @@ export const mainMenu = [
     },
   },
   {
-    path: "/profil",
+    path: `/${states?.auth?.currentAccount?.username}`,
     title: "Profile",
     icon: {
       active: (
