@@ -27,7 +27,7 @@ const initialState = {
 
 const auth = createSlice({
     name: "auth",
-    initialState,
+    initialState,   
     reducers: {
         // state manuplating methods
         _addAccount: (state, action) => {
