@@ -1,4 +1,4 @@
-import Premium from "~/components/premium";
+import Premium from "~/layouts/main/rightbar/premium";
 import Search from "~/layouts/main/rightbar/search";
 
 
