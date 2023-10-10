@@ -182,3 +182,69 @@ export const mainMenu = [
     },
   },
 ];
+
+
+
+export const topics = [
+	{
+		title: 'Trending in Norway',
+		topic: {
+			type: 'tag',
+			value: 'Tesla'
+		}
+	},
+	{
+		title: 'Trending in Norway',
+		topic: {
+			type: 'query',
+			value: 'Starlink'
+		},
+		postCount: 15640
+	},
+	{
+		title: 'Trending in Norway',
+		topic: {
+			type: 'tag',
+			value: 'Tesla'
+		}
+	},
+	{
+		title: 'Trending in Norway',
+		topic: {
+			type: 'query',
+			value: 'Starlink'
+		},
+		postCount: 15640
+	},
+	{
+		title: 'Trending in Norway',
+		topic: {
+			type: 'tag',
+			value: 'Tesla'
+		}
+	},
+	{
+		title: 'Trending in Norway',
+		topic: {
+			type: 'query',
+			value: 'Starlink'
+		},
+		postCount: 15640
+	},
+	{
+		title: 'Trending in Norway',
+		topic: {
+			type: 'tag',
+			value: 'Tesla'
+		}
+	},
+	{
+		title: 'Trending in Norway',
+		topic: {
+			type: 'query',
+			value: 'Starlink'
+		},
+		postCount: 15640
+	},
+
+]
