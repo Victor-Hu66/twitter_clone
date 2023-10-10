@@ -27,7 +27,7 @@ export default function Topic({ item }) {
             />
           </svg>
         </Popover.Button>
-        <Popover.Panel className="w-[384px] rounded-xl grid absolute top-2 overflow-hidden right-0 bg-black shadow-box z-[1]">
+        <Popover.Panel className="w-[300px] rounded-xl grid absolute top-2 overflow-hidden right-0 bg-black shadow-box z-[1]">
           <button
             type="button"
             className="hover:bg-white/[0.05] transition-colors text-left py-3 px-4 flex items-center gap-3 text-[15px] leading-5 font-bold text-[#e7e9ea]"
