@@ -4,7 +4,11 @@
 
 
 body {
-    @apply bg-black text-white text-[15px]
+    @apply bg-[color:var(--background-primary)] text-[color:var(--color-base)] text-[15px];
+}
+
+.shadow-box {
+    box-shadow: var(--box-shadow);
 }
 
 
