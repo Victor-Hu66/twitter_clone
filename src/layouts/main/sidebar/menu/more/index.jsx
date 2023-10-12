@@ -127,7 +127,7 @@ export default function More() {
                 Settings and Support
                 <svg
                   className={classNames({
-                    "rotate-180 text-[color:var(--primary-color)]": open,
+                    "rotate-180 text-[color:var(--color-primary)]": open,
                   })}
                   viewBox="0 0 24 24"
                   width={18.75}
