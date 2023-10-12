@@ -22,16 +22,16 @@ export default function Footer() {
 						</svg>
 					</Popover.Button>
 					<Popover.Panel className="w-[150px] max-w-[384px] bg-[color:var(--background-primary)] shadow-box rounded-xl absolute bottom-0 right-0 grid overflow-hidden">
-						<Link to="/" className="py-3 px-4 text-white text-[15px] leading-5 font-bold hover:bg-[color:var(--background-secondary)] transition-colors">
+						<Link to="/" className="py-3 px-4 text-[15px] leading-5 font-bold hover:bg-[color:var(--background-secondary)] transition-colors">
 							About
 						</Link>
-						<Link to="/" className="py-3 px-4 text-white text-[15px] leading-5 font-bold hover:bg-[color:var(--background-secondary)] transition-colors">
+						<Link to="/" className="py-3 px-4 text-[15px] leading-5 font-bold hover:bg-[color:var(--background-secondary)] transition-colors">
 							Status
 						</Link>
-						<Link to="/" className="py-3 px-4 text-white text-[15px] leading-5 font-bold hover:bg-[color:var(--background-secondary)] transition-colors">
+						<Link to="/" className="py-3 px-4 text-[15px] leading-5 font-bold hover:bg-[color:var(--background-secondary)] transition-colors">
 							X for Business
 						</Link>
-						<Link to="/" className="py-3 px-4 text-white text-[15px] leading-5 font-bold hover:bg-[color:var(--background-secondary)] transition-colors">
+						<Link to="/" className="py-3 px-4 text-[15px] leading-5 font-bold hover:bg-[color:var(--background-secondary)] transition-colors">
 							Developers
 						</Link>
 					</Popover.Panel>
