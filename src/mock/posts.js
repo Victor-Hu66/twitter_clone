@@ -1,17 +1,23 @@
 export const posts = [
 	{
 		id: '1708632465282150796',
-		content: `Toplu günaydın, ben her sabah spora devam ama her gün post atmıyorum artık, max 4 günde bir atarım çünkü en fazla 4 foto paylaşılıyormuş 🤣`,
+		content: `i haven't done this in SOOO long
+
+		i'll be staying up way too late working through some very tedious bugs to make this library work
+		
+		i haven't been this excited in a long time
+		
+		there is just something so fun about crushing outthings way into the night🤣`,
 		photos: [
-			'https://pbs.twimg.com/media/F7VBIvaW0AIZyiX?format=jpg&name=large',
-			'https://pbs.twimg.com/media/F7VBIvZXEAAIpEM?format=jpg&name=large',
+			'https://pbs.twimg.com/profile_images/1614986714795180033/yOQly3os_400x400.jpg',
+			'https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_400x400.jpg',
 			'https://pbs.twimg.com/media/F7VBIvaW0AAyXEr?format=jpg&name=large',
 			'https://pbs.twimg.com/media/F7VBIvaWAAAWUsx?format=jpg&name=large',
 		],
 		account: {
-			avatar: 'https://pbs.twimg.com/profile_images/1665642354009677824/LNZo7V8x_400x400.jpg',
-			username: 'tayfunerbilen',
-			fullName: 'Tayfun Erbilen'
+			avatar: 'https://pbs.twimg.com/profile_images/1614986714795180033/yOQly3os_400x400.jpg',
+			username: 'ThePrimeagen',
+			fullName: 'ThePrimeagen'
 		},
 		stats: {
 			comments: 43535,
@@ -60,23 +66,23 @@ And people have been busy executing god-like tasks.
 	},
 	{
 		id: '1708810187170087410',
-		content: `İstanbul'da Cumhuriyet'in 100. yılına özel, 100 gün boyunca Yerebatan Sarnıcı, Şerefiye Sarnıcı, Miniatürk ve Panorama 1453 Tarih Müzesi ücretsiz ziyaret edilebilecek.`,
+		content: `Standing down from tonight’s Falcon 9 launch attempt due to upper level winds, teams are assessing the next available opportunity`,
 		photos: [
-			'https://pbs.twimg.com/media/F7bpqaKXkAAopDd?format=jpg&name=900x900',
-			'https://pbs.twimg.com/media/F7bptMoXYAA7TpB?format=jpg&name=900x900',
-			'https://pbs.twimg.com/media/F7bptn2XkAAuPFn?format=jpg&name=900x900',
-			'https://pbs.twimg.com/media/F7bpua1WEAAwz7C?format=jpg&name=900x900'
+			'https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_400x400.jpg',
+			'https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_400x400.jpg',
+			'https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_400x400.jpg',
+			'https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_400x400.jpg'
 		],
 		account: {
-			avatar: 'https://pbs.twimg.com/profile_images/1707827931895017472/1-bUbTT3_400x400.jpg',
-			username: 'Darkwebhaber',
-			fullName: 'DarkWeb Haber'
+			avatar: 'https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_400x400.jpg',
+			username: 'SpaceX',
+			fullName: 'SpaceX'
 		},
 		stats: {
 			comments: 234234,
 			repost: 2324,
-			like: 1134124,
-			view: 111144
+			like: 1434134,
+			view: 211144
 		}
 	},
 	{
@@ -89,16 +95,16 @@ Prompt in ALT tag + more examples in thread:`,
 			'https://pbs.twimg.com/media/F7aKxHhaAAAnHlS?format=jpg&name=large'
 		],
 		account: {
-			avatar: 'https://pbs.twimg.com/profile_images/1617700070710992896/pF3T_gMB_400x400.jpg',
+			avatar: 'https://pbs.twimg.com/profile_images/1711152452735774720/Cotttl-n_400x400.jpg',
 			username: 'rowancheung',
 			fullName: 'Rowan Cheung',
 			verified: true
 		},
 		stats: {
-			comments: 99999,
-			repost: 999999,
-			like: 999999,
-			view: 99999999
+			comments: 790,
+			repost: 659,
+			like: 2909,
+			view: 23999
 		}
 	}
 ]

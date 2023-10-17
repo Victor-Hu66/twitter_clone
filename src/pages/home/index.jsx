@@ -6,13 +6,13 @@ export default function Home(){
     return (
 		<>
 			<Tab activeTab="for-you">
-				<StickyHeader title="Anasayfa">
+				<StickyHeader title="Home">
 					<Tab.Items>
 						<Tab.Item id="for-you">
-							Sana özel
+							For you
 						</Tab.Item>
 						<Tab.Item id="followings">
-							Takip edilenler
+							Following
 						</Tab.Item>
 					</Tab.Items>
 				</StickyHeader>
